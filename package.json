@@ -1,6 +1,6 @@
 {
   "name": "material-ui-datetimepicker-forked",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Wrapper above material ui date and time pickers -- forked for a fix",
   "main": "./dist/index.js",
   "scripts": {
